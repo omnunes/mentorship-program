@@ -2,25 +2,25 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description>Default user role</description>
+        <description>Can create and modify mentorship sessions.</description>
         <elevated_privilege>false</elevated_privilege>
-        <federated_id>G4p8XBgCvfNoJDjZ1E33rBsyOzmWWgSthcu1xNSoVVU=</federated_id>
+        <federated_id>9MxOvFSH33aV/hD+nz6ujo426wR5gPYWBO8K6rJFSpw=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_2221654_mentor_0.user</name>
+        <name>x_2221654_mentor_0.mentee</name>
         <scoped_admin>false</scoped_admin>
-        <suffix>user</suffix>
+        <suffix>mentee</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-11-01 01:57:17</sys_created_on>
-        <sys_id>86ec7591c3d813107c9e171ed40131ca</sys_id>
+        <sys_created_on>2026-11-01 07:18:02</sys_created_on>
+        <sys_id>77160f9dc31453107c9e171ed4013151</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_2221654_mentor_0.user</sys_name>
+        <sys_name>x_2221654_mentor_0.mentee</sys_name>
         <sys_package display_value="Mentorship Program" source="x_2221654_mentor_0">b1ec7591c3d813107c9e171ed40131a8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mentorship Program">b1ec7591c3d813107c9e171ed40131a8</sys_scope>
-        <sys_update_name>sys_user_role_86ec7591c3d813107c9e171ed40131ca</sys_update_name>
+        <sys_update_name>sys_user_role_77160f9dc31453107c9e171ed4013151</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-11-01 01:57:17</sys_updated_on>
+        <sys_updated_on>2026-11-01 07:18:02</sys_updated_on>
     </sys_user_role>
 </record_update>

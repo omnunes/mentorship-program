@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Mentorship Session">0a334a21c3d893107c9e171ed4013138</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-01 21:56:15</sys_created_on>
+        <sys_id>055fce65c31c93107c9e171ed40131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mentorship Session.Mentorship Program Users</sys_name>
+        <sys_package display_value="Mentorship Program" source="x_2221654_mentor_0">b1ec7591c3d813107c9e171ed40131a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mentorship Program">b1ec7591c3d813107c9e171ed40131a8</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_055fce65c31c93107c9e171ed40131d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-01 21:56:15</sys_updated_on>
+        <user_criteria display_value="Mentorship Program Users">c7ee4261c31c93107c9e171ed40131ae</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

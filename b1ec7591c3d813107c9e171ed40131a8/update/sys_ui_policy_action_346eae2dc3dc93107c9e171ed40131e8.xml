@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>session_date</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-02 00:12:28</sys_created_on>
+        <sys_id>346eae2dc3dc93107c9e171ed40131e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>session_date</sys_name>
+        <sys_package display_value="Mentorship Program" source="x_2221654_mentor_0">b1ec7591c3d813107c9e171ed40131a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mentorship Program">b1ec7591c3d813107c9e171ed40131a8</sys_scope>
+        <sys_update_name>sys_ui_policy_action_346eae2dc3dc93107c9e171ed40131e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-02 00:12:28</sys_updated_on>
+        <table>x_2221654_mentor_0_mentorship_session</table>
+        <ui_policy display_value="Make fields mandatory on Mentorship Session">43cd2ee9c3dc93107c9e171ed40131b4</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=346eae2dc3dc93107c9e171ed40131e8"/>
+</record_update>
